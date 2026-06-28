@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background:#f3f6fb;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.card{
+    border:none;
+    border-radius:12px;
+}
+
+.card-header{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.table{
+    margin-bottom:0;
+}
+
+.btn{
+    border-radius:8px;
+}
+
+.navbar{
+    box-shadow:0 2px 8px rgba(0,0,0,.2);
+}
+
+.container{
+    margin-top:30px;
+}
+
+input{
+    border-radius:8px !important;
+}

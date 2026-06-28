@@ -48,3 +48,12 @@ Runs on:
 ```
 http://localhost:4200
 ```
+
+
+
+<img width="1466" height="753" alt="Screenshot 2026-06-28 at 6 56 37 PM" src="https://github.com/user-attachments/assets/3023157b-a119-4bba-92f0-41e2101dae07" />
+
+
+<img width="1370" height="661" alt="Screenshot 2026-06-28 at 6 57 39 PM" src="https://github.com/user-attachments/assets/254a6ad3-cc5d-419e-9df1-6ac3361ac4c0" />
+
+

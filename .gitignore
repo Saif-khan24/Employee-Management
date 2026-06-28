@@ -1,0 +1,21 @@
+# Spring Boot
+employee-backend/target/
+
+# Angular
+employee-frontend/node_modules/
+employee-frontend/dist/
+employee-frontend/.angular/
+employee-frontend/coverage/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
